@@ -1,17 +1,26 @@
-## about
-Just a pizza lover runnin' for a pizza
+## About
+Just a pizza lover runnin' for a pizza.
+<br/>Learnin' some SDL2.
 
-Learnin' some SDL2, with great futility
-
-## dependencies and installation
+## Dependencies and installation
 ### dependencies
-requirements:
-SDL2
+Requirements:
+<br/>sdl2
 
-Arch:
-sudo pacman -S sdl2
+On arch:
+<br/>sudo pacman -s sdl2
 
-Ubuntu:
-sudo apt-get install libsdl2-dev
+On ubuntu:
+<br/>sudo apt-get install libsdl2-dev
 
-### build by running 'make' in root of the project
+Build:
+<br/> build by running 'make' in root of the project
+
+### demo
+![](https://github.com/mathey96/pizza-runner/blob/main/runner.gif)
+
+#### controls:
+SPACE - pause the orc.
+<br/>Mouse - Move mouse to redirect the orc
+
+
