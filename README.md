@@ -5,7 +5,7 @@ Just a pizza lover runnin' for a pizza.
 ## Dependencies and installation
 ### dependencies
 Requirements:
-<br/>sdl2
+<br/>SDL2
 
 On arch:
 <br/>sudo pacman -s sdl2
